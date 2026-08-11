@@ -1,21 +1,18 @@
-MIT License
+diCAPTCHA Copyright 2026 Altice-Works Co., Ltd. All rights reserved.
 
-Copyright (c) 2026 Altice
+本ソフトウェア（diCAPTCHA、および関連するソースコードやドキュメントの一切を指します）の利用、複製、改変、および再配布には、以下の条件が適用されます。
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+第1条（利用の許可）
+1. ユーザーは、本ソフトウェアのソースコードを閲覧、学習、および自己の責任において利用することができます。
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+第2条（禁止事項：ボットおよび自動収集の禁止）
+1. どのような目的であれ、AI（人工知能）の学習、モデルのトレーニング、LLMの事前学習・ファインチューニング等への本ソフトウェアの利用を固く禁じます。
+2. 自動化されたプログラム、スクリプト、クローラー、スパイダー、AIエージェント、その他いかなる形式のボット（以下「ボット等」）を用いた、本ソフトウェアの自動的なアクセス、スクレイピング、複製、ミラーリング、コードの自動収集、およびデータの取得を一切禁止します。
+3. ボット等を用いて収集されたデータやコードを、商用・非商用を問わず外部に公開・再配布・利用することを禁じます。
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+第3条（再配布および派生物の制限）
+1. 本ソフトウェアの全部または一部を改変した派生物を作成し公開する場合であっても、第2条に定める「ボット等による利用・収集の禁止」の条件をそのまま継承しなければなりません。
+
+第4条（免責事項）
+1. 本ソフトウェアは「現状のまま」提供され、明示的か暗黙的かを問わず、いかなる保証も行われません。
+2. 開発者および著作権者は、本ソフトウェアの使用または使用不能に起因して生じたいかなる損害（データの消失、業務の中断、金銭的損失を含むがこれらに限定されない）についても、一切の責任を負わないものとします。
