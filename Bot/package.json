@@ -1,0 +1,12 @@
+{
+  "name": "dicaptcha-bot",
+  "version": "1.0.0",
+  "description": "diCAPTCHA Discord Bot",
+  "main": "bot.js",
+  "dependencies": {
+    "discord.js": "^14.14.0"
+  },
+  "scripts": {
+    "start": "node bot.js"
+  }
+}
